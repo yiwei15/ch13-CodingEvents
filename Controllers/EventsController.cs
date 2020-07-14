@@ -9,7 +9,9 @@ namespace CodingEvents.Controllers
 {
     public class EventsController : Controller
     {
-        static List<string> events = new List<string>(); 
+        //static List<string> events = new List<string>(); 
+
+        static Dictionary<string, string> events = new Dictionary<string, string>();
 
         [HttpGet]
         public IActionResult Index()
@@ -31,9 +33,9 @@ namespace CodingEvents.Controllers
 
         [HttpPost]
         [Route("/events/add")]
-        public IActionResult NewEvent(string name)
+        public IActionResult NewEvent(string name, string description)
         {
-            events.Add(name);
+            events.Add(name, description);
             return Redirect("/Events");
         }
     }
