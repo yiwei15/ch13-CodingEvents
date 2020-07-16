@@ -38,3 +38,5 @@ C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\C
 C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\CodingEvents.csproj.CopyComplete
 C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\Add.cshtml.g.cs
 C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LinkListPartial.cshtml.g.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\delete.cshtml.g.cs
+C:\Users\zhaoy\codecamp2020\visual_studio\CodingEvents\obj\Debug\netcoreapp3.1\Razor\Views\Events\Edit.cshtml.g.cs
